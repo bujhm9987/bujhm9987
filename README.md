@@ -1,5 +1,5 @@
 ### Hi there 👋
-Меня зовут Игорь, я начинающий Java разработчик.
+Меня зовут Игорь, я начинающий Java разработчик.\
 На данный момент я ищу стажировку/работу на должность Java-разработчик.
 
 ### [Мое резюме](https://cv.hexlet.io/ru/resumes/2661)
@@ -16,7 +16,8 @@
 
 ### Контакты
 
- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)##### bujhm9987@gmail.com
+ ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)##### bujhm9987@gmail.com\
+
  ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) @Bujhm9987
 
 <!--
