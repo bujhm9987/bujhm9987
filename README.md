@@ -4,7 +4,11 @@
 
 ### [Мое резюме](https://cv.hexlet.io/ru/resumes/2661)
 
-
+### Портфолио
+  * [Игры разума](https://github.com/bujhm9987/java-project-61)
+  * [Вычислитель отличий](https://github.com/bujhm9987/java-project-71)
+  * [Валидатор данных](https://github.com/bujhm9987/java-project-78)
+  * [Анализатор страниц](https://github.com/bujhm9987/java-project-72)
 
 <!--
 **bujhm9987/bujhm9987** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
